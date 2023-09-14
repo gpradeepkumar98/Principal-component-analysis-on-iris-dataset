@@ -45,7 +45,7 @@ bash
 
     cd pca-iris-dataset
 
-    Open the Jupyter Notebook (PCA_on_Iris_Dataset.ipynb) in your preferred environment or editor.
+    Open the Jupyter Notebook (PCA.ipynb) in your preferred environment or editor.
 
 Usage
 
@@ -64,7 +64,6 @@ After running the code in the notebook or the Python script, you will obtain vis
 
     PCA scatter plots to visualize the data in the reduced-dimensional space.
     Explained variance ratios for each principal component.
-    Cumulative explained variance to help you decide how many principal components to retain.
 
 You can use these results to better understand the structure and relationships within the Iris dataset, which can be valuable for various data analysis and machine learning tasks.
 License
