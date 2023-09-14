@@ -1,5 +1,7 @@
 # Principal-component-analysis-on-iris-dataset
 
+"Uncovering Insights with PCA: Exploring the Iris Dataset"
+
 This repository contains a Python script and Jupyter Notebook demonstrating Principal Component Analysis (PCA) on the famous Iris dataset. PCA is a dimensionality reduction technique commonly used in data analysis and machine learning to reduce the number of features while preserving as much variance as possible. In this project, we apply PCA to the Iris dataset to visualize and understand the data better.
 Table of Contents
 
