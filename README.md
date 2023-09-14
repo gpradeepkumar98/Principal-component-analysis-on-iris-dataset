@@ -37,7 +37,7 @@ To get started with this project, follow these steps:
 
     bash
 
-git clone https://github.com/gpradeepkumar98/pca-iris-dataset.git
+git clone https://github.com/gpradeepkumar98/Principal-component-analysis-on-iris-dataset
 
 Navigate to the project directory:
 
